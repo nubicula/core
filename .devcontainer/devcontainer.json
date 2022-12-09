@@ -6,6 +6,9 @@
   "postStartCommand": "script/bootstrap",
   "containerEnv": { "DEVCONTAINER": "1" },
   "appPort": ["8123:8123"],
+  "mounts": [
+    "type=bind,source=/run/dbus,target=/run/dbus"
+  ],
   "runArgs": ["-e", "GIT_EDITOR=code --wait"],
   "extensions": [
     "ms-python.vscode-pylance",
