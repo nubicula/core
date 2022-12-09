@@ -250,6 +250,10 @@ BLUETOOTH: list[dict[str, bool | str | int | list[int]]] = [
         "manufacturer_id": 220,
     },
     {
+        "domain": "philips_sonicare_ble",
+        "manufacturer_id": 37,
+    },
+    {
         "connectable": False,
         "domain": "qingping",
         "local_name": "Qingping*",

@@ -855,6 +855,8 @@ build.json @home-assistant/supervisor
 /tests/components/persistent_notification/ @home-assistant/core
 /homeassistant/components/philips_js/ @elupus
 /tests/components/philips_js/ @elupus
+/homeassistant/components/philips_sonicare_ble/ @nubicula
+/tests/components/philips_sonicare_ble/ @nubicula
 /homeassistant/components/pi_hole/ @johnluetke @shenxn
 /tests/components/pi_hole/ @johnluetke @shenxn
 /homeassistant/components/picnic/ @corneyl

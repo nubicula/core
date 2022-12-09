@@ -303,6 +303,7 @@ FLOWS = {
         "panasonic_viera",
         "peco",
         "philips_js",
+        "philips_sonicare_ble",
         "pi_hole",
         "picnic",
         "plaato",

@@ -4008,6 +4008,12 @@
         }
       }
     },
+    "philips_sonicare_ble": {
+      "name": "Philips Sonicare Toothbrush",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "pi_hole": {
       "name": "Pi-hole",
       "integration_type": "hub",
